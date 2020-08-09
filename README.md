@@ -31,11 +31,11 @@ python get_poi.py --city 北京 --radius 500
 
 数据一共有 **id, name, type, typecode, lng, lat, distance** 7个字段。示例如下
 
-| id| name | type | typecode | lng | lat | typecode |
+| id| name | type | typecode | lng | lat | distance |
 | :------: | :----: | :----: | :------: | :------: | :------: | :------: |
 | B02E20O06Z | 株木山站 | 交通设施服务;火车站;火车站 |150200|111.890042644959|27.851164|96|
 | B0FFLCC8YV | 矿区医院 | 医疗保健服务;综合医院;综合医院 |090100|111.889904|27.853122|198|
 
 
 ### Data Share
-数据分析。如果你不想抓取数据，这边有一些城市[现成的数据](https://disk.pku.edu.cn:443/link/E42C6D75DCA028F12B386A8CBF3A438D)
+数据分析。如果你不想抓取数据, 我手里有一些现成的数据，可以发邮件联系我获取。
